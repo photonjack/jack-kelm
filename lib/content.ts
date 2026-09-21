@@ -104,12 +104,13 @@ export const skills: SkillGroup[] = [
     ],
   },
   {
-    name: "Scanning & Safety",
+    name: "3D Scanning",
+    items: ["Artec Spider", "Artec Leo", "Creaform"],
+  },
+  {
+    name: "Safety",
     items: [
       "CMSE® — Certified Machinery Safety Expert",
-      "Artec Spider",
-      "Artec Leo",
-      "Creaform",
       "FMEA",
       "Robot Safety",
       "Risk Assessments (RIA R15.06 / R15.08)",
