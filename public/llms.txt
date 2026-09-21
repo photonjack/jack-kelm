@@ -33,7 +33,7 @@ He is a CMSE® — Certified Machinery Safety Expert (Pilz training; examined an
 
 - Robotics: ABB, Fanuc, Kuka, Universal Robots
 - Computer Vision: Keyence, Cognex, Teledyne
-- CAD: SolidWorks, CATIA, Inventor, Fusion 360, SpaceClaim, Ansys, Generative Design
+- CAD: SolidWorks, CATIA V5, Inventor, Fusion 360, SpaceClaim, Ansys, Generative Design
 - Additive: J750, Fortus (250/370/450mc), Carbon M2, EOS P396, DfAM (PBF metal/plastics, FDM, resin)
 - 3D Scanning: Artec Spider, Artec Leo, Creaform
 - Safety: CMSE, FMEA, Robot Safety, Risk Assessments (RIA R15.06 / R15.08)

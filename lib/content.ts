@@ -83,7 +83,7 @@ export const skills: SkillGroup[] = [
     name: "CAD & Simulation",
     items: [
       "SolidWorks",
-      "CATIA",
+      "CATIA V5",
       "Inventor",
       "Fusion 360",
       "SpaceClaim",
@@ -239,7 +239,7 @@ export const allKnowsAbout = [
   "Additive Manufacturing",
   "Design for Additive Manufacturing",
   "SolidWorks",
-  "CATIA",
+  "CATIA V5",
   "RIA R15.06",
   "Robot Safety",
   "Machinery Safety",
