@@ -15,7 +15,7 @@ export const siteConfig = {
 
 export const about = {
   paragraphs: [
-    "I'm Jack Kelm, CMSE — a mechanical engineer and Certified Machinery Safety Expert based in Northfield, Ohio. For nearly a decade at Parker Hannifin, I've designed, programmed, and delivered industrial robot cells that cut labor costs, raise throughput, and keep people safer on the manufacturing floor.",
+    "I'm Jack Kelm, CMSE — a mechanical engineer and Certified Machinery Safety Expert based in Northfield, Ohio. For nearly a decade at Parker Hannifin, I've designed, programmed, and delivered industrial robot cells that cut labor costs, raise throughput, and keep people safer on the manufacturing floor. I also train Parker engineers on robotics — from Robotics 101 through ABB programming, SafeMove2, robot safety, and RobotStudio.",
     "My work spans the full automation lifecycle: business-case development, robot cell design (structure, electrical, sensors, programming, and safety), risk assessments to RIA R15.06 / R15.08, and remote project leadership across North American plants. I've also deep experience in computer vision, CAD, additive manufacturing, and 3D scanning.",
     "Whether you're hiring for an automation engineering role or looking for manufacturing automation consulting in the Cleveland–Akron area, I bring hands-on robotics expertise backed by measurable results and TÜV NORD–certified machinery safety credentials.",
   ],
@@ -43,6 +43,10 @@ export const experience: ExperienceRole[] = [
       {
         title: "Project Management",
         body: "Provided technical expertise for 800+ robot cell projects at remote Parker sites — covering structure, electrical, sensors, programming, safety, and risk assessment per RIA R15.08.",
+      },
+      {
+        title: "Robotics Training for Parker Sites",
+        body: "Taught robotics classes for engineers across Parker manufacturing sites, including Robotics 101 (introducing engineers to industrial robots), ABB Programming 1–3, Robot Safety, ABB SafeMove2, and ABB RobotStudio 1 — certified by ABB to teach RobotStudio 1.",
       },
       {
         body: "Designed and implemented a robot cell that saved 12 FTEs conducting ventilator valve testing, increasing throughput during a 12× surge in demand for ventilator valves during the global pandemic.",
@@ -206,7 +210,9 @@ export const certifications: Certification[] = [
     href: "/cmse-certificate.pdf",
   },
   {
-    title: "Certified ABB Robot Studio 1 Trainer",
+    title: "Certified ABB RobotStudio 1 Trainer",
+    detail:
+      "Authorized by ABB to teach RobotStudio 1. Delivered robotics training for Parker sites including Robotics 101, ABB Programming 1–3, Robot Safety, SafeMove2, and RobotStudio 1.",
   },
   {
     title:
@@ -227,6 +233,11 @@ export const faqs = [
     question: "Is Jack Kelm a Certified Machinery Safety Expert (CMSE)?",
     answer:
       "Yes. Jack Kelm is a CMSE® — Certified Machinery Safety Expert. After Pilz CMSE training, he passed the TÜV NORD CERT examination (certificate 44 506 26 094038 0447, valid through March 13, 2030).",
+  },
+  {
+    question: "Does Jack Kelm teach robotics?",
+    answer:
+      "Yes. Jack has taught robotics classes for Parker Hannifin manufacturing sites, including Robotics 101 for engineers new to robots, ABB Programming 1–3, Robot Safety, ABB SafeMove2, and ABB RobotStudio 1. He is certified by ABB to teach RobotStudio 1.",
   },
   {
     question: "Where is Jack Kelm based?",
@@ -263,6 +274,8 @@ export const allKnowsAbout = [
   "ABB Programming",
   "ABB SafeMove2",
   "ABB RobotStudio",
+  "Robotics Training",
+  "Robotics Instructor",
   "Fanuc",
   "Fanuc HandlingTool",
   "Fanuc Roboguide",
