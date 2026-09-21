@@ -1,6 +1,7 @@
 export const siteConfig = {
   name: "Jack Kelm",
-  title: "Automation Engineer",
+  title: "Automation Engineer, CMSE",
+  credentials: "CMSE",
   tagline:
     "9 years automating manufacturing — $55M+ in identified savings across 800+ robot cell projects",
   location: "Northfield, OH",
@@ -14,9 +15,9 @@ export const siteConfig = {
 
 export const about = {
   paragraphs: [
-    "I'm Jack Kelm, a mechanical engineer and automation specialist based in Northfield, Ohio. For nearly a decade at Parker Hannifin, I've designed, programmed, and delivered industrial robot cells that cut labor costs, raise throughput, and keep people safer on the manufacturing floor.",
+    "I'm Jack Kelm, CMSE — a mechanical engineer and Certified Machinery Safety Expert based in Northfield, Ohio. For nearly a decade at Parker Hannifin, I've designed, programmed, and delivered industrial robot cells that cut labor costs, raise throughput, and keep people safer on the manufacturing floor.",
     "My work spans the full automation lifecycle: business-case development, robot cell design (structure, electrical, sensors, programming, and safety), risk assessments to RIA R15.06 / R15.08, and remote project leadership across North American plants. I've also deep experience in computer vision, CAD, additive manufacturing, and 3D scanning.",
-    "Whether you're hiring for an automation engineering role or looking for manufacturing automation consulting in the Cleveland–Akron area, I bring hands-on robotics expertise backed by measurable results.",
+    "Whether you're hiring for an automation engineering role or looking for manufacturing automation consulting in the Cleveland–Akron area, I bring hands-on robotics expertise backed by measurable results and TÜV NORD–certified machinery safety credentials.",
   ],
 };
 
@@ -105,6 +106,7 @@ export const skills: SkillGroup[] = [
   {
     name: "Scanning & Safety",
     items: [
+      "CMSE® — Certified Machinery Safety Expert",
       "Artec Spider",
       "Artec Leo",
       "Creaform",
@@ -159,10 +161,29 @@ export const education = {
   graduated: "May 2017",
 };
 
-export const certifications = [
-  "Certified ABB Robot Studio 1 Trainer",
-  "First Place Winner — 2016 Tech Entrepreneurship Expo, Embry-Riddle Aeronautical University",
-  "Private Pilot",
+export type Certification = {
+  title: string;
+  detail?: string;
+  href?: string;
+};
+
+export const certifications: Certification[] = [
+  {
+    title: "CMSE® — Certified Machinery Safety Expert",
+    detail:
+      "Pilz training · Examined and certified by TÜV NORD CERT (Cert. No. 44 506 26 094038 0447). Valid March 13, 2026 – March 13, 2030.",
+    href: "/cmse-certificate.pdf",
+  },
+  {
+    title: "Certified ABB Robot Studio 1 Trainer",
+  },
+  {
+    title:
+      "First Place Winner — 2016 Tech Entrepreneurship Expo, Embry-Riddle Aeronautical University",
+  },
+  {
+    title: "Private Pilot",
+  },
 ];
 
 export const faqs = [
@@ -172,6 +193,11 @@ export const faqs = [
       "Jack works with ABB, Fanuc, Kuka, and Universal Robots for industrial robot cell design, programming, and safety.",
   },
   {
+    question: "Is Jack Kelm a Certified Machinery Safety Expert (CMSE)?",
+    answer:
+      "Yes. Jack Kelm is a CMSE® — Certified Machinery Safety Expert. After Pilz CMSE training, he passed the TÜV NORD CERT examination (certificate 44 506 26 094038 0447, valid through March 13, 2030).",
+  },
+  {
     question: "Where is Jack Kelm based?",
     answer:
       "Jack is based in Northfield, Ohio, serving manufacturing and automation opportunities in the Cleveland–Akron area and remotely across North America.",
@@ -179,12 +205,12 @@ export const faqs = [
   {
     question: "What kind of automation work does Jack do?",
     answer:
-      "Jack specializes in manufacturing automation engineering and consulting: robot cell design, computer vision integration, risk assessments (RIA R15.06/R15.08), additive manufacturing, and business-case development for automation investments.",
+      "Jack specializes in manufacturing automation engineering and consulting: robot cell design, computer vision integration, machinery safety and risk assessments (RIA R15.06/R15.08), additive manufacturing, and business-case development for automation investments.",
   },
   {
     question: "Does Jack Kelm offer automation consulting?",
     answer:
-      "Yes. With 9 years at Parker Hannifin delivering 800+ robot cell projects and identifying $55M+ in annual savings, Jack is available for automation engineering roles and manufacturing automation consulting.",
+      "Yes. With 9 years at Parker Hannifin delivering 800+ robot cell projects, identifying $55M+ in annual savings, and CMSE® machinery safety credentials, Jack is available for automation engineering roles and manufacturing automation consulting.",
   },
 ];
 
@@ -216,5 +242,8 @@ export const allKnowsAbout = [
   "CATIA",
   "RIA R15.06",
   "Robot Safety",
+  "Machinery Safety",
+  "CMSE",
+  "Certified Machinery Safety Expert",
   "3D Scanning",
 ];

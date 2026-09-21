@@ -1,10 +1,12 @@
-# Jack Kelm
+# Jack Kelm, CMSE
 
-> Automation engineer and mechanical engineer based in Northfield, Ohio (Cleveland–Akron area).
+> Automation engineer, mechanical engineer, and Certified Machinery Safety Expert (CMSE) based in Northfield, Ohio (Cleveland–Akron area).
 
 ## Summary
 
-Jack Kelm is an automation engineer with 9 years of experience at Parker Hannifin (Macedonia, OH). He specializes in industrial robot cell design, manufacturing automation consulting, computer vision, additive manufacturing, and robot safety (RIA R15.06 / R15.08). He has identified $55M+ in yearly savings across Parker North American plants and provided technical expertise on 800+ robot cell projects.
+Jack Kelm is an automation engineer with 9 years of experience at Parker Hannifin (Macedonia, OH). He specializes in industrial robot cell design, manufacturing automation consulting, computer vision, additive manufacturing, and robot / machinery safety (RIA R15.06 / R15.08). He has identified $55M+ in yearly savings across Parker North American plants and provided technical expertise on 800+ robot cell projects.
+
+He is a CMSE® — Certified Machinery Safety Expert (Pilz training; examined and certified by TÜV NORD CERT). Certificate No. 44 506 26 094038 0447. Valid March 13, 2026 – March 13, 2030.
 
 ## Contact
 
@@ -13,6 +15,7 @@ Jack Kelm is an automation engineer with 9 years of experience at Parker Hannifi
 - Location: Northfield, OH, USA
 - LinkedIn: https://www.linkedin.com/in/jack-kelm-a40412b3/
 - Resume PDF: /resume.pdf
+- CMSE Certificate PDF: /cmse-certificate.pdf
 - Website: https://jack-kelm.vercel.app
 
 ## Experience
@@ -33,7 +36,7 @@ Jack Kelm is an automation engineer with 9 years of experience at Parker Hannifi
 - CAD: SolidWorks, CATIA, Inventor, Fusion 360, SpaceClaim, Ansys, Generative Design
 - Additive: J750, Fortus (250/370/450mc), Carbon M2, EOS P396, DfAM (PBF metal/plastics, FDM, resin)
 - 3D Scanning: Artec Spider, Artec Leo, Creaform
-- Safety: FMEA, Robot Safety, Risk Assessments (RIA R15.06 / R15.08)
+- Safety: CMSE, FMEA, Robot Safety, Risk Assessments (RIA R15.06 / R15.08)
 
 ## Education
 
@@ -41,6 +44,7 @@ Jack Kelm is an automation engineer with 9 years of experience at Parker Hannifi
 
 ## Certifications & Awards
 
+- CMSE® — Certified Machinery Safety Expert (TÜV NORD CERT / Pilz), Cert. No. 44 506 26 094038 0447, valid through 2030-03-13
 - Certified ABB Robot Studio 1 Trainer
 - First Place Winner — 2016 Tech Entrepreneurship Expo, Embry-Riddle
 - Private Pilot
@@ -49,5 +53,6 @@ Jack Kelm is an automation engineer with 9 years of experience at Parker Hannifi
 
 - Automation / robotics engineering roles
 - Manufacturing automation consulting
+- Machinery safety and risk assessment consulting
 - Industrial automation hiring in Ohio and North America
 - Additive manufacturing / DfAM-related engineering work

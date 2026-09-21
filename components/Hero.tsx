@@ -18,13 +18,14 @@ export function Hero() {
       />
       <div className="relative mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
         <p className="animate-fade-up text-sm font-semibold uppercase tracking-wider text-accent-light">
-          {siteConfig.location} · Mechanical Engineer
+          {siteConfig.location} · Mechanical Engineer · CMSE®
         </p>
         <h1
           id="hero-heading"
           className="animate-fade-up delay-100 mt-3 font-display text-4xl font-bold tracking-tight text-foreground sm:text-5xl lg:text-6xl"
         >
           {siteConfig.name}
+          <span className="text-accent">, CMSE</span>
         </h1>
         <p className="animate-fade-up delay-200 mt-2 text-xl font-medium text-accent sm:text-2xl">
           {siteConfig.title}

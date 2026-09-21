@@ -33,17 +33,42 @@ export function Education() {
             <p className="text-sm font-semibold uppercase tracking-wider text-accent-light">
               Certifications & Awards
             </p>
-            <ul className="mt-4 space-y-3">
+            <ul className="mt-4 space-y-5">
               {certifications.map((cert) => (
-                <li
-                  key={cert}
-                  className="flex gap-3 text-muted leading-relaxed"
-                >
+                <li key={cert.title} className="flex gap-3 text-muted leading-relaxed">
                   <span
                     className="mt-2 h-1.5 w-1.5 shrink-0 rounded-full bg-accent"
                     aria-hidden
                   />
-                  {cert}
+                  <div>
+                    <span className="font-semibold text-foreground">
+                      {cert.href ? (
+                        <a
+                          href={cert.href}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="hover:text-accent underline-offset-2 hover:underline"
+                        >
+                          {cert.title}
+                        </a>
+                      ) : (
+                        cert.title
+                      )}
+                    </span>
+                    {cert.detail && (
+                      <p className="mt-1 text-sm text-muted">{cert.detail}</p>
+                    )}
+                    {cert.href && (
+                      <a
+                        href={cert.href}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="mt-1.5 inline-block text-sm font-medium text-accent hover:underline"
+                      >
+                        View certificate (PDF)
+                      </a>
+                    )}
+                  </div>
                 </li>
               ))}
             </ul>
