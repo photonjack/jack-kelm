@@ -1,6 +1,6 @@
 # Jack Kelm — Resume Website
 
-Personal portfolio / resume site for Jack Kelm, Automation Engineer.
+Personal portfolio / resume site for Jack Kelm, Senior Automation Engineer.
 
 ## Stack
 

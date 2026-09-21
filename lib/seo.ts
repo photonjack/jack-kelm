@@ -65,8 +65,9 @@ export const defaultMetadata = {
     template: `%s | ${siteConfig.name}`,
   },
   description:
-    "Jack Kelm, CMSE is an automation engineer in Northfield, OH with 9 years at Parker Hannifin. Certified Machinery Safety Expert (TÜV NORD), robotics (ABB, Fanuc, Kuka, UR), and manufacturing automation consulting.",
+    "Jack Kelm, CMSE is a Senior Automation Engineer in Northfield, OH with 9 years at Parker Hannifin. Certified Machinery Safety Expert (TÜV NORD), robotics (ABB, Fanuc, Kuka, UR), and manufacturing automation consulting.",
   keywords: [
+    "senior automation engineer Ohio",
     "automation engineer Ohio",
     "robotics engineer Cleveland",
     "CMSE Certified Machinery Safety Expert",

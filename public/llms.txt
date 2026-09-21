@@ -1,10 +1,10 @@
 # Jack Kelm, CMSE
 
-> Automation engineer, mechanical engineer, and Certified Machinery Safety Expert (CMSE) based in Northfield, Ohio (Cleveland–Akron area).
+> Senior automation engineer, mechanical engineer, and Certified Machinery Safety Expert (CMSE) based in Northfield, Ohio (Cleveland–Akron area).
 
 ## Summary
 
-Jack Kelm is an automation engineer with 9 years of experience at Parker Hannifin (Macedonia, OH). He specializes in industrial robot cell design, manufacturing automation consulting, computer vision, additive manufacturing, and robot / machinery safety (RIA R15.06 / R15.08). He has identified $55M+ in yearly savings across Parker North American plants and provided technical expertise on 800+ robot cell projects. He also trains Parker engineers in robotics (Robotics 101, ABB Programming 1–3, Robot Safety, SafeMove2, RobotStudio 1) and is an ABB-certified RobotStudio 1 trainer.
+Jack Kelm is a Senior Automation Engineer at Parker Hannifin (Macedonia, OH) with 9 years of experience. He specializes in industrial robot cell design, manufacturing automation consulting, computer vision, additive manufacturing, and robot / machinery safety (RIA R15.06 / R15.08). He has identified $55M+ in yearly savings across Parker North American plants and provided technical expertise on 800+ robot cell projects. He also trains Parker engineers in robotics (Robotics 101, ABB Programming 1–3, Robot Safety, SafeMove2, RobotStudio 1) and is an ABB-certified RobotStudio 1 trainer.
 
 He is a CMSE® — Certified Machinery Safety Expert (Pilz training; examined and certified by TÜV NORD CERT). Certificate No. 44 506 26 094038 0447. Valid March 13, 2026 – March 13, 2030.
 
@@ -20,7 +20,7 @@ He is a CMSE® — Certified Machinery Safety Expert (Pilz training; examined an
 
 ## Experience
 
-### Parker Hannifin — Automation Engineer (July 2017 – present)
+### Parker Hannifin — Senior Automation Engineer (July 2017 – present)
 - Business case development: identified $55M/year savings across 1/5 of Parker's N.A. manufacturing plants
 - Technical expertise for 800+ robot cell projects (structure, electrical, sensors, programming, safety, RIA R15.08)
 - Taught robotics for Parker sites: Robotics 101, ABB Programming 1–3, Robot Safety, ABB SafeMove2, ABB RobotStudio 1 (ABB-certified trainer)

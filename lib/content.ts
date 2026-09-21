@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Jack Kelm",
-  title: "Automation Engineer, CMSE",
+  title: "Senior Automation Engineer, CMSE",
   credentials: "CMSE",
   tagline:
     "9 years automating manufacturing — $55M+ in identified savings across 800+ robot cell projects",
@@ -15,7 +15,7 @@ export const siteConfig = {
 
 export const about = {
   paragraphs: [
-    "I'm Jack Kelm, CMSE — a mechanical engineer and Certified Machinery Safety Expert based in Northfield, Ohio. For nearly a decade at Parker Hannifin, I've designed, programmed, and delivered industrial robot cells that cut labor costs, raise throughput, and keep people safer on the manufacturing floor. I also train Parker engineers on robotics — from Robotics 101 through ABB programming, SafeMove2, robot safety, and RobotStudio.",
+    "I'm Jack Kelm, CMSE — a mechanical engineer and Certified Machinery Safety Expert based in Northfield, Ohio. For nearly a decade at Parker Hannifin as a Senior Automation Engineer, I've designed, programmed, and delivered industrial robot cells that cut labor costs, raise throughput, and keep people safer on the manufacturing floor. I also train Parker engineers on robotics — from Robotics 101 through ABB programming, SafeMove2, robot safety, and RobotStudio.",
     "My work spans the full automation lifecycle: business-case development, robot cell design (structure, electrical, sensors, programming, and safety), risk assessments to RIA R15.06 / R15.08, and remote project leadership across North American plants. I've also deep experience in computer vision, CAD, additive manufacturing, and 3D scanning.",
     "Whether you're hiring for an automation engineering role or looking for manufacturing automation consulting in the Cleveland–Akron area, I bring hands-on robotics expertise backed by measurable results and TÜV NORD–certified machinery safety credentials.",
   ],
@@ -33,7 +33,7 @@ export const experience: ExperienceRole[] = [
   {
     company: "Parker Hannifin",
     location: "Macedonia, OH",
-    title: "Automation Engineer",
+    title: "Senior Automation Engineer",
     period: "July 2017 – Present",
     highlights: [
       {
@@ -252,7 +252,7 @@ export const faqs = [
   {
     question: "Does Jack Kelm offer automation consulting?",
     answer:
-      "Yes. With 9 years at Parker Hannifin delivering 800+ robot cell projects, identifying $55M+ in annual savings, and CMSE® machinery safety credentials, Jack is available for automation engineering roles and manufacturing automation consulting.",
+      "Yes. As a Senior Automation Engineer at Parker Hannifin with 800+ robot cell projects, $55M+ in identified annual savings, and CMSE® machinery safety credentials, Jack is available for automation engineering roles and manufacturing automation consulting.",
   },
 ];
 
@@ -268,6 +268,7 @@ export const navLinks = [
 
 export const allKnowsAbout = [
   "Automation Engineering",
+  "Senior Automation Engineer",
   "Industrial Robotics",
   "Robot Cell Design",
   "ABB",
