@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e8f0f7"/>
+      <stop offset="100%" style="stop-color:#1e4976"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g)"/>
+  <circle cx="280" cy="250" r="70" fill="none" stroke="#fff" stroke-width="8" opacity="0.9"/>
+  <rect x="350" y="180" width="180" height="140" rx="12" fill="none" stroke="#fff" stroke-width="8" opacity="0.9"/>
+  <text x="400" y="440" text-anchor="middle" fill="#fff" font-family="system-ui,sans-serif" font-size="22" font-weight="600">Ventilator Valve Cell</text>
+</svg>

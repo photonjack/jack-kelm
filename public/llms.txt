@@ -1,0 +1,53 @@
+# Jack Kelm
+
+> Automation engineer and mechanical engineer based in Northfield, Ohio (Cleveland–Akron area).
+
+## Summary
+
+Jack Kelm is an automation engineer with 9 years of experience at Parker Hannifin (Macedonia, OH). He specializes in industrial robot cell design, manufacturing automation consulting, computer vision, additive manufacturing, and robot safety (RIA R15.06 / R15.08). He has identified $55M+ in yearly savings across Parker North American plants and provided technical expertise on 800+ robot cell projects.
+
+## Contact
+
+- Email: Jackkelm13@gmail.com
+- Phone: (330) 241-7532
+- Location: Northfield, OH, USA
+- LinkedIn: https://www.linkedin.com/in/jack-kelm-a40412b3/
+- Resume PDF: /resume.pdf
+- Website: https://jack-kelm.vercel.app
+
+## Experience
+
+### Parker Hannifin — Automation Engineer (July 2017 – present)
+- Business case development: identified $55M/year savings across 1/5 of Parker's N.A. manufacturing plants
+- Technical expertise for 800+ robot cell projects (structure, electrical, sensors, programming, safety, RIA R15.08)
+- Ventilator valve test automation: saved 12 FTEs, scaled throughput during 12x demand surge
+- Fluid valve testing automation: $2.8M/year savings via remote project leadership
+
+### Hyson Metal Forming Solutions — Engineering Co-op (Summers 2013–2015)
+- Shop operator, HSE/quality, and engineering co-op roles
+
+## Skills
+
+- Robotics: ABB, Fanuc, Kuka, Universal Robots
+- Computer Vision: Keyence, Cognex, Teledyne
+- CAD: SolidWorks, CATIA, Inventor, Fusion 360, SpaceClaim, Ansys, Generative Design
+- Additive: J750, Fortus (250/370/450mc), Carbon M2, EOS P396, DfAM (PBF metal/plastics, FDM, resin)
+- 3D Scanning: Artec Spider, Artec Leo, Creaform
+- Safety: FMEA, Robot Safety, Risk Assessments (RIA R15.06 / R15.08)
+
+## Education
+
+- B.S. Mechanical Engineering (Robotics Concentration), Embry-Riddle Aeronautical University, Daytona Beach, FL — May 2017
+
+## Certifications & Awards
+
+- Certified ABB Robot Studio 1 Trainer
+- First Place Winner — 2016 Tech Entrepreneurship Expo, Embry-Riddle
+- Private Pilot
+
+## Ideal opportunities
+
+- Automation / robotics engineering roles
+- Manufacturing automation consulting
+- Industrial automation hiring in Ohio and North America
+- Additive manufacturing / DfAM-related engineering work
