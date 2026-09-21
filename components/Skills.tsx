@@ -23,21 +23,46 @@ export function Skills() {
           {skills.map((group) => (
             <article
               key={group.name}
-              className="rounded-2xl border border-border bg-card p-6 shadow-sm transition hover:border-accent/40 hover:shadow-md"
+              className={`rounded-2xl border border-border bg-card p-6 shadow-sm transition hover:border-accent/40 hover:shadow-md ${
+                group.subgroups ? "sm:col-span-2 lg:col-span-3" : ""
+              }`}
             >
               <h3 className="font-display text-lg font-semibold text-accent">
                 {group.name}
               </h3>
-              <ul className="mt-4 flex flex-wrap gap-2">
-                {group.items.map((item) => (
-                  <li
-                    key={item}
-                    className="rounded-full bg-accent-soft px-3 py-1 text-sm font-medium text-accent"
-                  >
-                    {item}
-                  </li>
-                ))}
-              </ul>
+
+              {group.subgroups ? (
+                <div className="mt-5 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+                  {group.subgroups.map((sub) => (
+                    <div key={sub.name}>
+                      <p className="text-sm font-semibold text-foreground">
+                        {sub.name}
+                      </p>
+                      <ul className="mt-2 flex flex-wrap gap-2">
+                        {sub.items.map((item) => (
+                          <li
+                            key={`${sub.name}-${item}`}
+                            className="rounded-full bg-accent-soft px-3 py-1 text-sm font-medium text-accent"
+                          >
+                            {item}
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  ))}
+                </div>
+              ) : (
+                <ul className="mt-4 flex flex-wrap gap-2">
+                  {group.items?.map((item) => (
+                    <li
+                      key={item}
+                      className="rounded-full bg-accent-soft px-3 py-1 text-sm font-medium text-accent"
+                    >
+                      {item}
+                    </li>
+                  ))}
+                </ul>
+              )}
             </article>
           ))}
         </div>

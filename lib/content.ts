@@ -67,13 +67,43 @@ export const experience: ExperienceRole[] = [
 
 export type SkillGroup = {
   name: string;
-  items: string[];
+  items?: string[];
+  subgroups?: { name: string; items: string[] }[];
 };
 
 export const skills: SkillGroup[] = [
   {
     name: "Robotics",
-    items: ["ABB", "Fanuc", "Kuka", "Universal Robots"],
+    subgroups: [
+      {
+        name: "ABB",
+        items: [
+          "Programming 1",
+          "Programming 2",
+          "Programming 3",
+          "SafeMove2",
+          "RobotStudio 1",
+          "RobotStudio 2",
+        ],
+      },
+      {
+        name: "Fanuc",
+        items: [
+          "HandlingTool",
+          "Advanced Teach Pendant",
+          "Roboguide",
+          "DCS",
+        ],
+      },
+      {
+        name: "Kuka",
+        items: ["Programming 1"],
+      },
+      {
+        name: "Universal Robots",
+        items: ["All training"],
+      },
+    ],
   },
   {
     name: "Computer Vision",
@@ -191,7 +221,7 @@ export const faqs = [
   {
     question: "What robotics platforms does Jack Kelm work with?",
     answer:
-      "Jack works with ABB, Fanuc, Kuka, and Universal Robots for industrial robot cell design, programming, and safety.",
+      "Jack works with ABB (Programming 1–3, SafeMove2, RobotStudio 1–2), Fanuc (HandlingTool, Advanced Teach Pendant, Roboguide, DCS), Kuka (Programming 1), and Universal Robots (full training suite) for industrial robot cell design, programming, and safety.",
   },
   {
     question: "Is Jack Kelm a Certified Machinery Safety Expert (CMSE)?",
@@ -230,8 +260,15 @@ export const allKnowsAbout = [
   "Industrial Robotics",
   "Robot Cell Design",
   "ABB",
+  "ABB Programming",
+  "ABB SafeMove2",
+  "ABB RobotStudio",
   "Fanuc",
+  "Fanuc HandlingTool",
+  "Fanuc Roboguide",
+  "Fanuc DCS",
   "Kuka",
+  "Kuka Programming",
   "Universal Robots",
   "Computer Vision",
   "Keyence",
